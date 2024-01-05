@@ -1,0 +1,22 @@
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\Equação do 2º Grau.exe.config
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\Equação do 2º Grau.exe
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\Equação do 2º Grau.pdb
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.csprojResolveAssemblyReference.cache
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação_do_2º_Grau.Form1.resources
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação_do_2º_Grau.Properties.Resources.resources
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.csproj.GenerateResource.Cache
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.exe
+c:\users\admins\documents\visual studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.pdb
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\Equação do 2º Grau.exe.config
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.exe
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.pdb
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\Equação do 2º Grau.exe
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\Equação do 2º Grau.pdb
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.csprojResolveAssemblyReference.cache
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação_do_2º_Grau.Form1.resources
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação_do_2º_Grau.Properties.Resources.resources
+C:\Users\João Fernandes\Documents\Visual Studio 2015\Projects\Equação do 2º Grau\Equação do 2º Grau\obj\Debug\Equação do 2º Grau.csproj.GenerateResource.Cache
